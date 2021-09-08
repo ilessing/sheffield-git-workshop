@@ -1,4 +1,4 @@
-#This is my analysis.
+#This is a sample analysis.
 
 x <- rnorm(300);
 print(t.test(x, mu=5))
